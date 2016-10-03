@@ -1,0 +1,22 @@
+{
+  "name": "paquete_npm",
+  "version": "1.0.0",
+  "description": "A demo package for an exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosueTC94/Tutorial_P2.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "JosueTC94",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosueTC94/Tutorial_P2/issues"
+  },
+  "homepage": "https://github.com/JosueTC94/Tutorial_P2#readme"
+}
